@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Test!"
+date:   2016-05-19
+categories: main
+---
+This is a test post! Will I show up?
