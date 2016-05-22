@@ -2,5 +2,6 @@
 	background: url('../images/hunting.jpg');
 	height: 300px;
 	display: flex;
+	justify-content: space-around;
 	align-items: flex-end;
 }
