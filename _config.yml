@@ -9,9 +9,9 @@
 title: Random Ramblings
 email: tiffany.stallings@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+	Hello, and welcome to my blog! I'll be posting updates here when
+	I make progress on web development projects, art projects, or
+	any other time I feel I've done something noteworthy!
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://tiffanystallings.github.io" # the base hostname & protocol for your site
 twitter_username: TiffCStallings
