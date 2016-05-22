@@ -9,9 +9,7 @@
 title: Random Ramblings
 email: tiffany.stallings@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-	Hello, and welcome to my blog! I'll be posting updates here when
-	I make progress on web development projects, art projects, or
-	any other time I feel I've done something noteworthy!
+  Welcome to my blog! Here you will find updates on my web development and art projects, as well as any other noteworthy information I may feel like sharing!
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://tiffanystallings.github.io" # the base hostname & protocol for your site
 twitter_username: TiffCStallings
