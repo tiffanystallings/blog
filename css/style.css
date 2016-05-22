@@ -10,3 +10,12 @@
 	width: 100%;
 	justify-content: space-around;
 }
+
+.site-title {
+	font-size: 50px;
+	color: #fff;
+}
+
+.page-link {
+	font-weight: 300;
+}
