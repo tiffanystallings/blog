@@ -1,5 +1,6 @@
 .site-header {
 	background: url('../images/hunting.jpg');
-	height: 400px;
-	padding-top: auto;
+	height: 300px;
+	display: flex;
+	align-items: flex-end;
 }
