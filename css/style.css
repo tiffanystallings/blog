@@ -13,6 +13,9 @@
 
 .site-title {
 	font-size: 50px;
+}
+
+.site-title, .site-title:visited {
 	color: #fff;
 }
 
