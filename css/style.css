@@ -22,3 +22,7 @@
 .site-nav .page-link {
 	font-weight: bolder;
 }
+
+h1, h2, h3 {
+	font-family: 'Rametto One', cursive;
+}
