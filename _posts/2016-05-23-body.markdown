@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Bird Body Complete"
+date:   2016-05-23
+categories: main
+---
+![Headless Bird Lady!](http://tiffanystallings.github.io/blog/images/birdlady_03.png)
+
+Okay, so I was having a little too much fun to stop at finishing her hands. But this really is it for tonight!
+
+Next time I do some work on this lady, I'll be starting on her head. Doing the face generally takes me more time than doing the entire body, but given the amount of detail needed to rig a head for animation, I suppose that's fairly normal.
+
+I'm sure I'll continue to tweak her body as I go along, but so far I'm pleased with it.
