@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bird Body Complete"
-date:   2016-05-23
+date:   2016-05-23 19:55
 categories: main
 ---
 ![Headless Bird Lady!](http://tiffanystallings.github.io/blog/images/birdlady_03.png)
