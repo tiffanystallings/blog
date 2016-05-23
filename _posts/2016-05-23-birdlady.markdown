@@ -4,7 +4,7 @@ title:  "Bird Lady Got Back!"
 date:   2016-05-23
 categories: main
 ---
-![The beginnings of Bird Lady](../images/birdlady_01.png)
+![The beginnings of Bird Lady](http://tiffanystallings.github.io/blog/images/birdlady_01.png)
 
 Okay, so Bird Lady is just a working title.
 
