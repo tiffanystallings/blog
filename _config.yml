@@ -7,7 +7,7 @@
 
 # Site settings
 title: Random Ramblings
-email: tiffany.stallings@gmail.com
+email: tiffany.c.stallings@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Welcome to my blog! Here you will find updates on my web development and art projects, as well as any other noteworthy information I may feel like sharing!
 baseurl: "/blog" # the subpath of your site, e.g. /blog
