@@ -15,6 +15,7 @@
 
 .site-title {
 	font-family: 'Rametto One', cursive;
+	font-weight: 400;
 	font-size: 50px;
 }
 
@@ -28,4 +29,5 @@
 
 h1, h2, h3 {
 	font-family: 'Rametto One', cursive;
+	font-weight: 400;
 }
